@@ -1,0 +1,3 @@
+### C++ Codes
+---
+This project contains basic C++ programs demonstrating how to create and use classes with separate header and implementation files. The code follows standard practice by placing class declarations in .h files and defining their functions in .cpp files. These exercises show how constructors, member functions, and encapsulated data work in an object-oriented structure. The programs also illustrate modular programming by keeping each class self-contained and easy to reuse. Overall, the collection represents fundamental university-level practice with C++ classes and clean project organization.
